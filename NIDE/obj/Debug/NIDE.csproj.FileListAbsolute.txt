@@ -1,0 +1,19 @@
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\bin\Debug\NIDE.exe.config
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\bin\Debug\NIDE.exe
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\bin\Debug\NIDE.pdb
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\bin\Debug\FastColoredTextBox.dll
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\obj\Debug\NIDE.Properties.Resources.resources
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\obj\Debug\NIDE.csproj.GenerateResource.Cache
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\obj\Debug\NIDE.exe
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\obj\Debug\NIDE.pdb
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\obj\Debug\NIDE.Window.resources
+c:\users\survari\documents\visual studio 2015\Projects\NIDE\NIDE\obj\Debug\NIDE.csprojResolveAssemblyReference.cache
+F:\Projekte\C#\NIDE\NIDE\bin\Debug\NIDE.exe.config
+F:\Projekte\C#\NIDE\NIDE\obj\Debug\NIDE.exe
+F:\Projekte\C#\NIDE\NIDE\obj\Debug\NIDE.pdb
+F:\Projekte\C#\NIDE\NIDE\bin\Debug\NIDE.exe
+F:\Projekte\C#\NIDE\NIDE\bin\Debug\NIDE.pdb
+F:\Projekte\C#\NIDE\NIDE\obj\Debug\NIDE.csprojResolveAssemblyReference.cache
+F:\Projekte\C#\NIDE\NIDE\obj\Debug\NIDE.Window.resources
+F:\Projekte\C#\NIDE\NIDE\obj\Debug\NIDE.Properties.Resources.resources
+F:\Projekte\C#\NIDE\NIDE\obj\Debug\NIDE.csproj.GenerateResource.Cache

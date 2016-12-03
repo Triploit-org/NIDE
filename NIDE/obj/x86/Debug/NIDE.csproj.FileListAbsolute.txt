@@ -1,0 +1,4 @@
+F:\Projekte\C#\NIDE\NIDE\bin\x86\Debug\NIDE.exe.config
+F:\Projekte\C#\NIDE\NIDE\obj\x86\Debug\NIDE.Window.resources
+F:\Projekte\C#\NIDE\NIDE\obj\x86\Debug\NIDE.Properties.Resources.resources
+F:\Projekte\C#\NIDE\NIDE\obj\x86\Debug\NIDE.csproj.GenerateResource.Cache
